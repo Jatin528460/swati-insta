@@ -163,7 +163,7 @@ function updateFeedFun(){
     });
 
     
-    refreshPostBox += `  
+//     refreshPostBox += `  
     
     
 //     <div class="articleBoxUpper" id="articleBoxUpper">
@@ -475,7 +475,7 @@ function updateFeedFun(){
 
 
 
-`
+// `
                   
     articleBoxContainer.innerHTML = refreshPostBox;
     
