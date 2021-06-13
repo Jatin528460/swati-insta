@@ -107,7 +107,7 @@
 .articleBoxUpperLeftPhoto, .articleBoxBottomAddCommentPhoto{
     width: 25px;
     height: 25px;
-    background: black url('image.jfif') no-repeat center center / cover;
+    background: black url('9.jpeg') no-repeat center center / cover;
     border-radius: 100%;
     margin-right: 10px;
 }
@@ -134,10 +134,11 @@
 .articleBoxLowerLike{
     float: left;
     margin: 0 10px 0 0;
+    font-size: 20px;
 }
 .articleBoxLowerComment{
     float: left;
-    margin: 0 10px 0 0;
+    margin: 4px 10px 0 0;
 }
 
 
